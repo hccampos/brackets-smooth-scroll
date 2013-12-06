@@ -1,0 +1,24 @@
+{
+    "name": "brackets-smooth-scroll",
+    "title": "Smooth Scroll",
+    "version": "0.0.1",
+    "description": "Adds kinetic smooth scrolling (like MacOS, iOS and Android) to Brackets for devices and/or operating systems that don't support it natively.",
+    "homepage": "https://github.com/hccampos/brackets-smooth-scroll",
+    "author": "Hugo Campos <hcfields@gmail.com> (http://www.hccampos.net)",
+    "license": "MIT",
+    "categories":"gui",
+    "keywords": [
+        "scroll",
+        "scrolling",
+        "smooth",
+        "kinetic",
+        "smooth scroll",
+        "smooth scrolling",
+        "kinetic scroll",
+        "kinetic scrolling",
+        "fling"
+    ],
+    "engines": {
+        "brackets": ">=0.34.0"
+    }
+}
