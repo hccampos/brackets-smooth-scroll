@@ -3,6 +3,8 @@ brackets-smooth-scroll
 
 Adds kinetic smooth scrolling (like MacOS, iOS and Android) to Brackets for devices and/or operating systems that don't support it natively.
 
+![](https://raw.github.com/hccampos/brackets-smooth-scroll/master/preview.gif)
+
 ## Notes
 
 Only tested in sprint 34. If it works for you on an earlier version, please let me know so I can update the package.json file accordingly.
