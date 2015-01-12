@@ -17,7 +17,7 @@ define(function (require, exports, module) {
     // friction.
     var PSEUDO_FRICTION = 0.93;
     // Maximum magnitude of the force that can be applied to the page.
-    var MAX_FORCE = 0.08;
+    var MAX_FORCE = 0.02;
     // If the speed of the page goes below this value, we just won't update the scroll position and
     // we will stop the page.
     var SPEED_THRESHOLD = 0.001;
